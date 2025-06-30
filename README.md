@@ -1,6 +1,6 @@
 # 📲 SnapDrop - File Sharing Mobile Application
 
-A native Android app that lets you share files instantly over a local network — no cables, no internet, just fast peer-to-peer file transfers. Inspired by the Snapdrop web app.
+A native Android app that lets you share files instantly over a local network — no cables, no internet, just fast peer-to-peer file transfers.
 
 ## 🚀 Features
 
